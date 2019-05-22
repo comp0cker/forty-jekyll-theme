@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Whether it's my code, this website, or myself, I love solutions that not only get the job done, but look good while doing it. I've worked with tons of front-end web frameworks such as Angular and React, and have lots of experience in the depths of object-oriented programming. I'm currently pursuing a BSE in computer science at the University of Michigan, all while doing a bit of web development on the side. When I'm not finding where I left out the semicolon, I'm playing in the Michigan Marching Band, ricing my Linux setups, or playing the Pokemon TCG.
