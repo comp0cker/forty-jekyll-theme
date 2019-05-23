@@ -30,21 +30,57 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
-
         <!-- Two -->
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>Who am I?</h2>
                 </header>
-                <p>{{ content }}</p>
+
+                <div class="row">
+                    <div class="6u 12u$(small)">
+                        <h3>Work Experience</h3>
+                        <dl>
+                            <dt>Amazon</dt>
+                            <dd>
+                                <b>Software Development Engineer Intern</b>
+                                <i>June - August 2019</i>
+                                <p>Working to help engineer better solutions for AWS</p>
+                            </dd>
+                            <dt>University of Michigan ITS</dt>
+                            <dd>
+                                <b>4HELP Computer Consultant</b>
+                                <i>December 2017 - April 2019</i>
+                                <p>Assisted with DUO two-factor authentication, access, and managing administrative roles</p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="6u$ 12u$(small)">
+                        <h3>Education</h3>
+                        <dl>
+                                <dt>University of Michigan</dt>
+                                <dd>
+                                    <b>BSE in Computer Science</b>
+                                    <i>2017 - 2019</i>
+                                    <p>Majoring in Computer Science with a focus in Cybersecurity/Cryptography, with minors in Mathematics and Music</p>
+                                </dd>
+                                <dt></dt>
+                                <dd>
+                                    <b>4HELP Computer Consultant</b>
+                                    <i>December 2017 - April 2019</i>
+                                    <p>Assisted with DUO two-factor authentication, access, and managing administrative roles</p>
+                                </dd>
+                            </dl>
+                    </div>
+                </div>
                 <ul class="actions">
                     <li><a href="landing.html" class="button next">Get Started</a></li>
                 </ul>
             </div>
         </section>
+
+        <!-- One -->
+        {% include tiles.html %}
 
     </div>
 
